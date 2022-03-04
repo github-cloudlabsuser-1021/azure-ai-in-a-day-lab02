@@ -22,7 +22,7 @@ variables:
 - group: devopsforai-aml-vg
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: odluser553496-project-agent-pool
 
 stages:
 - stage: 'Model_CI'
